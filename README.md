@@ -17,6 +17,4 @@ Feel free to add more functions or modify the code.
 2. User agent support
 3. Random waiting time
 4. GUI
-
-BOT HAT -TBN
-https://thebot.net/members/bot-hat.218311/
+Riaz
